@@ -1,0 +1,398 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Deb",
+				"Debug.Log(message)"
+			],
+			[
+				"par",
+				"parseHTML\tmethod"
+			],
+			[
+				"get",
+				"getJSON\tmethod"
+			],
+			[
+				"fi",
+				"find\tmethod"
+			],
+			[
+				"in",
+				"intersectObjects\tmethod"
+			],
+			[
+				"canva",
+				"CanvasTexture\tclass"
+			],
+			[
+				"c",
+				"createVideo\tproperty"
+			],
+			[
+				"pla",
+				"PlaneGeometry\tclass"
+			],
+			[
+				"box",
+				"Box3\tclass"
+			],
+			[
+				"vec",
+				"Vector3\tclass"
+			],
+			[
+				"set",
+				"setFromPoints\tmethod"
+			],
+			[
+				"setf",
+				"setFromArray\tmethod"
+			],
+			[
+				"co",
+				"computeBoundingBox\tmethod"
+			],
+			[
+				"po",
+				"point2\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 144.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"boxy",
+				"Boxy Theme: Activation"
+			],
+			[
+				"settings",
+				"Preferences: Settings"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"bui",
+				"Build With: TypeScript"
+			],
+			[
+				"bin",
+				"Preferences: Key Bindings"
+			],
+			[
+				"buil",
+				"Build With: TypeScript"
+			]
+		],
+		"width": 414.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/trevo/workspace/NiftyHate/NiftyHate.sublime-project",
+		"/C/Users/trevo/workspace/NiftyHate/Assets/Energy.cs",
+		"/C/Users/trevo/workspace/NiftyHate/Assets/Spawner.cs",
+		"/C/Users/trevo/workspace/niftyDash/public/ts/index/logic.ts",
+		"/C/Users/trevo/workspace/niftyDash/views/index.jade",
+		"/C/Users/trevo/Desktop/New Text Document.txt",
+		"/C/Users/trevo/workspace/niftyDash/app.ts",
+		"/C/Users/trevo/workspace/niftyDash/public/ts/pivot/logic.ts",
+		"/C/Users/trevo/workspace/caffeProject/app.py",
+		"/C/Users/trevo/workspace/caffeProject/words.txt",
+		"/C/Users/trevo/workspace/caffeProject/.gitignore",
+		"/C/Users/trevo/workspace/caffeProject/caffe/words.txt",
+		"/C/Users/trevo/workspace/caffeProject/conv.prototxt",
+		"/C/Users/trevo/workspace/caffeProject/my_net.png",
+		"/C/Users/trevo/workspace/caffeProject/caffe/include/caffe/net.hpp",
+		"/C/Users/trevo/workspace/niftyDash/public/ts/niftyBlog/logic.ts",
+		"/C/Users/trevo/workspace/niftyDash/views/header.jade",
+		"/C/Users/trevo/workspace/niftyDash/views/niftyBlog.jade",
+		"/C/Users/trevo/workspace/niftyDash/views/niftyBlogPost.jade",
+		"/C/Users/trevo/workspace/niftyDash/views/niftyNews.jade",
+		"/C/Users/trevo/workspace/niftyDash/models/widget.ts",
+		"/C/Users/trevo/workspace/niftyDash/public/ts/niftyBlog/post.ts",
+		"/C/Users/trevo/workspace/niftyDash/controllers/tvShow.ts",
+		"/C/Users/trevo/workspace/niftyDash/controllers/comic.ts",
+		"/C/Users/trevo/workspace/niftyDash/libs/widgets.ts",
+		"/C/Users/trevo/workspace/niftyDash/package.json",
+		"/C/Users/trevo/workspace/niftyDash/controllers/youtube.ts",
+		"/C/Users/trevo/workspace/niftyDash/libs/appFactory.ts",
+		"/C/Users/trevo/workspace/niftyDash/public/ts/niftyWorld/niftySpace.ts",
+		"/C/Users/trevo/workspace/niftyDash/models/user.ts",
+		"/C/Users/trevo/workspace/niftyDash/controllers/user.ts",
+		"/C/Users/trevo/workspace/niftyDash/public/compiledTS/pivot/logic.js",
+		"/C/Users/trevo/workspace/niftyDash/libs/preLoadDB.ts",
+		"/C/Users/trevo/workspace/niftyDash/public/ts/niftyWorld/niftyWorldEditor.ts",
+		"/C/Users/trevo/workspace/niftyDash/public/css/mainLight.css",
+		"/C/Users/trevo/workspace/niftyDash/public/css/main.css",
+		"/C/Users/trevo/workspace/niftyDash/libs/niftyWorld/libs/sceneRunner.ts",
+		"/C/Users/trevo/Desktop/localhost-1489293830925.log",
+		"/C/Users/trevo/workspace/niftyDash/views/niftySpace.jade",
+		"/C/Users/trevo/workspace/niftyDash/libs/niftyWorld/libs/sceneObjectCreator.ts",
+		"/C/Users/trevo/workspace/niftyDash/views/niftyWorldEditor.jade",
+		"/C/Users/trevo/workspace/niftyDash/libs/niftyWorld/objects/app.ts",
+		"/C/Users/trevo/workspace/niftyDash/public/ts/niftyWorld/niftySpace.js",
+		"/C/Users/trevo/workspace/niftyDash/public/ts/niftyWorld/niftyWorld.ts",
+		"/C/Users/trevo/workspace/niftyDash/libs/niftyWorld/libs/box3Helper.ts",
+		"/C/Users/trevo/workspace/niftyDash/gulpfile.js",
+		"/C/Users/trevo/workspace/niftyDash/libs/niftyWorld/objects/character.ts",
+		"/C/Users/trevo/workspace/niftyDash/libs/niftyWorld/objects/block.ts",
+		"/C/Users/trevo/workspace/niftyDash/libs/niftyWorld/libs/materials.ts",
+		"/C/Users/trevo/workspace/niftyDash/libs/niftyWorld/libs/sceneRunner.js",
+		"/C/Users/trevo/workspace/niftyDash/tsconfig.json",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/Users/trevo/workspace/niftyDash/libs/niftyWorld/threeExtensions/OBJLoader.ts",
+		"/C/Users/trevo/workspace/niftyDash/libs/niftyWorld/threeExtensions/VREffect.ts"
+	],
+	"find":
+	{
+		"height": 48.0
+	},
+	"find_in_files":
+	{
+		"height": 158.0,
+		"where_history":
+		[
+			"C:\\Users\\trevo\\workspace\\NiftyHate\\Assets\\Scripts",
+			"C:\\Users\\trevo\\workspace\\niftyDash"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"class",
+			"data",
+			"template",
+			"widgets",
+			"undoClicked",
+			"a",
+			"settingscl",
+			"settings",
+			"img",
+			"helper",
+			"net",
+			"caffeHelper",
+			"net",
+			"227",
+			"100",
+			"\\",
+			"loss",
+			"niftyNews",
+			"vis",
+			"hidden",
+			"widget",
+			"Widget",
+			"widget",
+			"})\n",
+			"console.log",
+			"SMBC",
+			"yt-uix-tile-link",
+			"yt-lockup-title",
+			"yt-lockup-content",
+			"title",
+			"widgetList",
+			"viewedItem",
+			"static",
+			"REDDIT",
+			"YouTubePlayer",
+			"controller",
+			"img",
+			"https://i.ytimg.com/vi/7lHrJlLYFU0/hqdefault.jpg?custom=true&amp;w=196&amp;h=110&amp;stc=true&amp;jpg444=true&amp;jpgq=90&amp;sp=68&amp;sigh=XN_hb9gVEpY-NZA8zqpRSoYCMuM",
+			"img",
+			"vids",
+			"\n",
+			"\\'",
+			"'",
+			"yt-lockup yt-lockup-tile",
+			"yt-lockup yt-lockup-tile yt-lockup-video clearfix",
+			"elementName",
+			"controllerPlace",
+			"controllerLeft",
+			"controllerPlace",
+			"controllerDrag",
+			"niftyWorldEditor",
+			"onYouTubeIframeAPIReady",
+			"mesh",
+			"video",
+			"originMeshScale",
+			"collider",
+			"update",
+			"Block",
+			"delta",
+			"lastKey",
+			"controllers.controllerPlace",
+			"controllers.controllerDrag",
+			"controllerDrag",
+			"controllerPlace",
+			"creation",
+			"point2",
+			"point1",
+			"www.",
+			",",
+			"addFace"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "NiftyHate.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 290.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
